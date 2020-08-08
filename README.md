@@ -4,4 +4,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Adrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raven4ever&show_icons=true&hide_border=true" />
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=raven4ever&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raven4ever&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
